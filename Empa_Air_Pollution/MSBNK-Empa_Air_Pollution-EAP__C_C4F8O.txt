@@ -1,13 +1,13 @@
 ACCESSION: MSBNK-Empa_Air_Pollution-EAP__C_C4F8O
 RECORD_TITLE: Perfluorotetrahydrofuran; GC-EI-TOF; MS; EI 70 eV
-DATE: 2026.02.16
+DATE: 2026.10.08
 AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Schneider Livia, Reimann Stefan
 LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: Perfluorotetrahydrofuran
 CH$NAME: c-C4F8O
-CH$COMPOUND_CLASS: o-PFO
+CH$COMPOUND_CLASS: o-PFO (Halogenated Ether)
 CH$FORMULA: C4F8O
 CH$EXACT_MASS: 215.98214
 CH$SMILES: C1(C(C(OC1(F)F)(F)F)(F)F)(F)F
@@ -34,7 +34,7 @@ AC$CHROMATOGRAPHY: INJECTION_TEMPERATURE 40 C
 AC$CHROMATOGRAPHY: INLET_TYPE direct inlet
 AC$CHROMATOGRAPHY: TRANSFERLINE_TEMPERATURE 200 C
 AC$CHROMATOGRAPHY: KOVATS_RTI 396
-PK$SPLASH: splash10-0002-9300000000-27b4aad72ce0068ba3d4
+PK$SPLASH: splash10-0002-9300000000-4f1252d4f851819dc56c
 PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensity_fraction
   23.99843 1 23.99945 42.56 C2+ 1.00
   30.99824 1 30.99785 -12.43 CF+ 0.99
@@ -86,9 +86,9 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   131.99509 1 131.99482 -2.03 C2[13C]F5+ 1.00
   146.98772 1 146.98638 -9.10 C3OF5+ 0.99
   147.99327 1 147.98974 -23.87 C2[13C]OF5+ 1.00
-  149.99171 1 0.00000 0.00 - 1.00
-  150.99465 1 0.00000 0.00 - 1.00
-  151.99636 1 0.00000 0.00 - 1.00
+  149.99171 1 149.98987 -12.26 C3F6+ 1.00
+  150.99465 1 150.99323 -9.44 C2[13C]F6+ 1.00
+  151.99636 1 151.99658 1.45 C[13C]2F6+ 1.00
   158.98913 1 158.98638 -17.29 C4OF5+ 1.00
   165.98183 1 165.98479 17.80 C3OF6+ 1.00
   168.98988 1 168.98827 -9.51 C3F7+ 1.00
@@ -98,9 +98,7 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   197.08181 1 0.00000 0.00 - 1.00
   197.98666 1 197.98654 -0.59 C3[13C]OF7+ 1.00
   215.98160 1 215.98159 -0.04 C4OF8+ 0.96
-  221.92695 1 0.00000 0.00 - 1.00
-  270.04658 1 0.00000 0.00 - 1.00
-PK$NUM_PEAK: 63
+PK$NUM_PEAK: 61
 PK$PEAK: m/z int. rel.int.
   23.99843 108.05 0
   30.99824 186053.10 82
@@ -163,6 +161,4 @@ PK$PEAK: m/z int. rel.int.
   197.08181 340.36 0
   197.98666 142.92 0
   215.98160 851.41 0
-  221.92695 40.80 0
-  270.04658 185.45 0
 //

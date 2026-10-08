@@ -1,6 +1,6 @@
 ACCESSION: MSBNK-Empa_Air_Pollution-EAP__PFTEA
 RECORD_TITLE: Perfluorotriethylamine; GC-EI-TOF; MS; EI 70 eV
-DATE: 2026.02.19
+DATE: 2026.10.08
 AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Schneider Livia, Reimann Stefan
 LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
@@ -87,7 +87,7 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   215.09741 1 0.00000 0.00 - 1.00
   215.99753 1 215.99014 -34.21 C3[13C][15N]F8+ 0.49
   215.99753 2 215.99646 -4.95 C2[13C]2NF8+ 1.00
-  263.98743 1 0.00000 0.00 - 1.00
+  263.98743 1 263.98656 -3.30 C5F10N+ 1.00
 PK$NUM_PEAK: 46
 PK$PEAK: m/z int. rel.int.
   27.01539 78.68 0
@@ -136,4 +136,4 @@ PK$PEAK: m/z int. rel.int.
   215.09741 1209.98 0
   215.99753 88.38 0
   263.98743 163.64 0
-//
+//

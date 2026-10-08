@@ -1,6 +1,6 @@
 ACCESSION: MSBNK-Empa_Air_Pollution-EAP__HCFC_132B
 RECORD_TITLE: 1,2-dichloro-1,1-difluoroethane; GC-EI-TOF; MS; EI 70 eV
-DATE: 2026.02.12
+DATE: 2026.10.08
 AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Schneider Livia, Reimann Stefan
 LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
@@ -104,12 +104,12 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   117.94451 1 117.93748 -59.56 HC2F[37Cl]2+ 1.00
   117.94451 2 117.95161 60.24 H2C[13C]FCl[37Cl]+ 1.00
   118.94683 1 118.94531 -12.78 H2C2F[37Cl]2+ 1.00
-  133.95080 1 0.00000 0.00 - 1.00
-  134.95232 1 0.00000 0.00 - 1.00
-  135.94778 1 0.00000 0.00 - 1.00
+  133.95080 1 133.94961 -8.86 H2C2F2Cl2+ 1.00
+  134.95232 1 134.95297 4.80 H2C[13C]F2Cl2+ 0.98
+  135.94778 1 135.94666 -8.22 H2C2F2Cl[37Cl]+ 0.99
   136.01781 1 0.00000 0.00 - 1.00
-  136.95141 1 0.00000 0.00 - 1.00
-  137.94486 1 0.00000 0.00 - 1.00
+  136.95141 1 136.95002 -10.16 H2C[13C]F2Cl[37Cl]+ 1.00
+  137.94486 1 137.94371 -8.31 H2C2F2[37Cl]2+ 1.00
 PK$NUM_PEAK: 68
 PK$PEAK: m/z int. rel.int.
   23.99935 205.62 1
@@ -180,4 +180,4 @@ PK$PEAK: m/z int. rel.int.
   136.01781 314.50 1
   136.95141 88.21 0
   137.94486 732.01 4
-//
+//

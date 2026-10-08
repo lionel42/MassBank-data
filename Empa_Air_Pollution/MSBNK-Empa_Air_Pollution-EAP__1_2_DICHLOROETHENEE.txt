@@ -7,7 +7,6 @@ COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: 1,2-dichloroethene, E
 CH$NAME: 1,2-dichloroetheneE
-CH$NAME: HFO-1330E
 CH$COMPOUND_CLASS: VSLS - Cl
 CH$FORMULA: C2H2Cl2
 CH$EXACT_MASS: 95.95336

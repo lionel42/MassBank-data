@@ -1,7 +1,7 @@
 ACCESSION: MSBNK-Empa_Air_Pollution-EAP__2_BROMO_1_1_DIFLUOROETHENE
 RECORD_TITLE: 2-Bromo-1,1-difluoroethene; GC-EI-TOF; MS; EI 70 eV
-DATE: 2026.07.02
-AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Reimann Stefan
+DATE: 2026.10.08
+AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Schneider Livia, Reimann Stefan
 LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
@@ -36,10 +36,11 @@ AC$CHROMATOGRAPHY: INJECTION_TEMPERATURE 40 C
 AC$CHROMATOGRAPHY: INLET_TYPE direct inlet
 AC$CHROMATOGRAPHY: TRANSFERLINE_TEMPERATURE 200 C
 AC$CHROMATOGRAPHY: KOVATS_RTI 454
-PK$SPLASH: splash10-0006-4900000000-4e9d4c0f52e070e09d91
+PK$SPLASH: splash10-0006-5900000000-0472b5daeabe1c497b38
 PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensity_fraction
   23.99948 1 23.99945 -1.19 C2+ 0.98
   25.00737 1 25.00728 -3.74 HC2+ 0.98
+  30.99826 1 30.99785 -13.08 CF+ 0.99
   42.99807 1 42.99785 -5.01 C2F+ 0.98
   44.00536 1 44.00568 7.26 HC2F+ 0.98
   49.99571 1 49.99626 10.96 CF2+ 0.99
@@ -84,10 +85,11 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   142.92344 2 142.92870 36.78 [2H]C2F2Br+ 0.01
   143.92226 1 143.92037 -13.11 HC2F2[81Br]+ 1.00
   144.92553 1 144.92373 -12.44 HC[13C]F2[81Br]+ 1.00
-PK$NUM_PEAK: 45
+PK$NUM_PEAK: 46
 PK$PEAK: m/z int. rel.int.
   23.99948 2313.89 7
   25.00737 2913.16 9
+  30.99826 52200.72 176
   42.99807 6696.76 22
   44.00536 35457.35 119
   49.99571 8175.21 27

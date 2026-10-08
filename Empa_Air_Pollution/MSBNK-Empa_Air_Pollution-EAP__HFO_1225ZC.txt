@@ -7,7 +7,6 @@ COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: 1,1,3,3,3-Pentafluoro-1-propene
 CH$NAME: HFO-1225zc
-CH$NAME: Ms_Luthien
 CH$COMPOUND_CLASS: HFO
 CH$FORMULA: C3HF5
 CH$EXACT_MASS: 131.99984
@@ -103,4 +102,4 @@ PK$PEAK: m/z int. rel.int.
   130.98924 345.20 1
   131.99754 68217.44 379
   133.00064 2037.86 11
-//
+//

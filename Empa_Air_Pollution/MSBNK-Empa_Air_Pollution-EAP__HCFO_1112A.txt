@@ -8,7 +8,6 @@ PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non
 CH$NAME: Ethene, 1,1-dichloro-2,2-difluoro-
 CH$NAME: 1,1-dichloro-2,2-difluoroethene
 CH$NAME: HCFO-1112a
-CH$NAME: Mr_Dain
 CH$COMPOUND_CLASS: HCFO
 CH$FORMULA: C2Cl2F2
 CH$EXACT_MASS: 131.93451
@@ -148,4 +147,4 @@ PK$PEAK: m/z int. rel.int.
   134.93176 2377.54 12
   135.92547 17888.86 91
   136.92961 314.71 1
-//
+//

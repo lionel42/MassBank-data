@@ -6,7 +6,6 @@ LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: chloroethane
-CH$NAME: Ms_Lizenn
 CH$COMPOUND_CLASS: VSLS - Cl
 CH$FORMULA: C2H5Cl
 CH$EXACT_MASS: 64.00798
@@ -95,4 +94,4 @@ PK$PEAK: m/z int. rel.int.
   65.00701 1572.14 30
   66.00516 16179.58 317
   67.00884 309.35 6
-//
+//

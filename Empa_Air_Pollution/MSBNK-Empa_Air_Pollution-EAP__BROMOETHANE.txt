@@ -6,7 +6,6 @@ LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: Bromoethane
-CH$NAME: Mr_Brieuc
 CH$NAME: bromoethane
 CH$COMPOUND_CLASS: VSLS - Br
 CH$FORMULA: C2H5Br
@@ -102,4 +101,4 @@ PK$PEAK: m/z int. rel.int.
   108.95807 3762.28 26
   109.95614 139957.67 981
   110.95943 2730.48 19
-//
+//

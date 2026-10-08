@@ -8,7 +8,6 @@ PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non
 CH$NAME: 1-Bromo-1-chloro-2,2-difluoroethene
 CH$NAME: BCDFE
 CH$NAME: CBrClCF2
-CH$NAME: Mr_Bifur
 CH$COMPOUND_CLASS: Halon
 CH$FORMULA: C2BrClF2
 CH$EXACT_MASS: 175.88400

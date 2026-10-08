@@ -7,7 +7,6 @@ COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: 1-chloro-1-fluoroethene
 CH$NAME: HCFO-1131a
-CH$NAME: Ms_Dominique
 CH$COMPOUND_CLASS: HCFO
 CH$FORMULA: C2H2ClF
 CH$EXACT_MASS: 79.98291
@@ -116,4 +115,4 @@ PK$PEAK: m/z int. rel.int.
   80.98573 2901.11 25
   81.98304 33436.79 289
   82.98629 661.87 5
-//
+//

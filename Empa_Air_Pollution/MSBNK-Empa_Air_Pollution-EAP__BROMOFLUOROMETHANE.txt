@@ -6,7 +6,6 @@ LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
 PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non-target screening of preconcentrated air samples
 CH$NAME: Bromofluoromethane
-CH$NAME: Mr_Bofur
 CH$NAME: bromofluoromethane
 CH$COMPOUND_CLASS: Other
 CH$FORMULA: CH2BrF
@@ -92,4 +91,4 @@ PK$PEAK: m/z int. rel.int.
   112.92847 1532.04 19
   113.93042 77839.48 971
   114.93388 721.14 9
-//
+//

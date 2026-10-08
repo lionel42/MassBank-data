@@ -8,7 +8,6 @@ PROJECT: HALOHUNTER Discovering halogenated compounds in the atmosphere with non
 CH$NAME: 2-Bromo-1,1-difluoroethene
 CH$NAME: 1-Bromo-2,2-difluoroethylene
 CH$NAME: 2-bromo-1,1-difluoroethene
-CH$NAME: Mr_Bombur
 CH$COMPOUND_CLASS: VSLS - Br
 CH$FORMULA: C2HBrF2
 CH$EXACT_MASS: 141.92297
@@ -133,4 +132,4 @@ PK$PEAK: m/z int. rel.int.
   142.92344 8418.29 28
   143.92226 293573.99 990
   144.92553 5736.91 19
-//
+//

@@ -1,6 +1,6 @@
 ACCESSION: MSBNK-Empa_Air_Pollution-EAP__CBRCLCF2
 RECORD_TITLE: 1-Bromo-1-chloro-2,2-difluoroethene; GC-EI-TOF; MS; EI 70 eV
-DATE: 2026.02.12
+DATE: 2026.10.08
 AUTHORS: Begley Alina, Constantin Lionel, Myriam Guillevic, Schlauri Paul, Schneider Livia, Reimann Stefan
 LICENSE: CC BY
 COPYRIGHT: Empa - Air Pollution / Environmental Technology
@@ -59,10 +59,12 @@ PK$ANNOTATION: m/z formula_count exact_mass error(ppm) tentative_formula intensi
   80.91397 1 80.91574 21.89 [81Br]+ 1.00
   84.96423 1 84.96511 10.36 CF2Cl+ 0.98
   86.96069 1 86.96216 16.91 CF2[37Cl]+ 1.00
-  87.94244 1 0.00000 0.00 - 1.00
-  88.94132 1 0.00000 0.00 - 1.00
-  89.44078 1 0.00000 0.00 - 1.00
-  89.94034 1 0.00000 0.00 - 1.00
+  87.94244 1 87.94145 -11.26 C2F2ClBr+2 1.00
+  88.94132 1 88.93997 -15.07 C2F2[37Cl]Br+2 0.37
+  88.94132 2 88.94043 -10.01 C2F2Cl[81Br]+2 1.00
+  89.44078 1 89.44165 9.73 C[13C]F2[37Cl]Br+2 0.45
+  89.44078 2 89.44210 14.76 C[13C]F2Cl[81Br]+2 1.00
+  89.94034 1 89.93895 -15.45 C2F2[37Cl][81Br]+2 1.00
   90.91719 1 90.91779 6.59 CBr+ 1.00
   91.91959 1 91.92114 16.90 [13C]Br+ 1.00
   92.91522 1 92.91574 5.61 C[81Br]+ 0.99
@@ -183,4 +185,4 @@ PK$PEAK: m/z int. rel.int.
   179.87985 32662.01 225
   180.88285 601.63 4
   180.98106 27.84 0
-//
+//
